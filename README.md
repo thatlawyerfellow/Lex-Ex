@@ -49,9 +49,10 @@ Theme: Orchis GTK with Papirus icons
 
 **Installation and Deployment**
 
-Lex-Ex can be booted as a Live ISO or installed to disk using the standard Debian installer.
-All system defaults, themes, and branding are embedded for persistence across all user profiles (root, live, user, and /etc/skel).
+Lex-Ex can be booted as a Live ISO or installed to disk using the standard Debian installer. The ISO may be found at our SourceForge page: https://sourceforge.net/projects/lex-ex/files/alpha_amd64/ 
 
+
+All system defaults, themes, and branding are embedded for persistence across all user profiles 
 Developers and administrators can re-create or customize the distro using the build sequence outlined below:
 Enable Flathub and Snap support
 Purge bloatware
