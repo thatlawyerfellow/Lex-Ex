@@ -54,12 +54,13 @@ Lex-Ex can be booted as a Live ISO or installed to disk using the standard Debia
 
 All system defaults, themes, and branding are embedded for persistence across all user profiles 
 Developers and administrators can re-create or customize the distro using the build sequence outlined below:
-Enable Flathub and Snap support
-Purge bloatware
-Install LawWare stack (Apt, Flatpak, and custom repos)
-Apply theme and branding
-Configure defaults (office, browser, calendar, mail, media)
-Activate Webmin, UFW, and VPN tools
+
+1.Enable Flathub and Snap support
+2.Purge bloatware
+3. Install LawWare stack (Apt, Flatpak, and custom repos)
+4. Apply theme and branding
+5. Configure defaults (office, browser, calendar, mail, media)
+6. Activate Webmin, UFW, and VPN tools [Webmin starts at localhost:10000] [SSH is preinstalled and available at Port 22] [VPN Clients are Pre-Configured for all major protocols, load your profile/enter credentials and connect)
 
 **License & Credits::
 License: GNU/GPL (Other Applications distributed under compatible open-source or permissive licenses)
