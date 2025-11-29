@@ -9,6 +9,17 @@ Freedom. Focus. Forensics.
 
 Lex-Ex brings the legal desktop into the open-source age — replacing bloatware and fragmentation with a unified, secure, and well-structured environment. Every element — from PDF handling to time tracking and encrypted communication — is configured out of the box for real legal practice.
 
+**Some Screenshots** 
+--You can find more screenshots in the Assets folder 
+
+![Lex-Ex Main Screen](https://github.com/thatlawyerfellow/Lex-Ex/tree/main/assets/Screenshot from 2025-11-18 00-46-31.png)
+
+
+![Lex-Ex Desktop](https://github.com/thatlawyerfellow/Lex-Ex/tree/main/assets/Screenshot from 2025-11-18 00-46-38.png)
+
+![PDF Tools](https://github.com/thatlawyerfellow/Lex-Ex/tree/main/assets/Screenshot from 2025-11-18 00-49-13.png)
+
+
 **Key Features**
 1. Law-Ready Workspace
 A fully curated “LawWare” stack pre-installed and pre-configured:
