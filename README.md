@@ -12,12 +12,12 @@ Lex-Ex brings the legal desktop into the open-source age — replacing bloatware
 **Some Screenshots** 
 --You can find more screenshots in the Assets folder 
 
-![Lex-Ex Main Screen](https://github.com/thatlawyerfellow/Lex-Ex/tree/main/assets/Screenshot from 2025-11-18 00-46-31.png)
+![Lex-Ex Main Screen](https://raw.githubusercontent.com/thatlawyerfellow/Lex-Ex/main/assets/Screenshot%20from%202025-11-18%2000-46-31.png)
 
+![Lex-Ex Desktop](https://raw.githubusercontent.com/thatlawyerfellow/Lex-Ex/main/assets/Screenshot%20from%202025-11-18%2000-46-38.png)
 
-![Lex-Ex Desktop](https://github.com/thatlawyerfellow/Lex-Ex/tree/main/assets/Screenshot from 2025-11-18 00-46-38.png)
+![PDF Tools](https://raw.githubusercontent.com/thatlawyerfellow/Lex-Ex/main/assets/Screenshot%20from%202025-11-18%2000-49-13.png)
 
-![PDF Tools](https://github.com/thatlawyerfellow/Lex-Ex/tree/main/assets/Screenshot from 2025-11-18 00-49-13.png)
 
 
 **Key Features**
